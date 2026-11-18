@@ -10,9 +10,6 @@ trading session — and runs a live regional news monitor alongside it.
 
 <video src="https://github.com/user-attachments/assets/8313f51e-aca8-46db-8abe-d0c5b721e8f3" controls></video>
 
-
-[Open or download the demo video](github_version.mp4).
-
 ---
 
 ## The problem
