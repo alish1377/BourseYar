@@ -8,8 +8,8 @@ trading session — and runs a live regional news monitor alongside it.
 
 ## Demo
 
-<video src="" controls width="100%"></video>
-https://github.com/alish1377/BourseYar/blob/main/github_version.mp4
+<video src="https://github.com/alish1377/BourseYar/blob/main/github_version.mp4" controls width="100%"></video>
+
 
 [Open or download the demo video](github_version.mp4).
 
