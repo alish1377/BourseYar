@@ -8,7 +8,7 @@ trading session — and runs a live regional news monitor alongside it.
 
 ## Demo
 
-<video src="assets/BourseYar-wordpress.mp4" controls width="100%"></video>
+<video src="BourseYar-wordpress.mp4" controls width="100%"></video>
 
 [Open or download the demo video](assets/BourseYar-wordpress.mp4).
 
