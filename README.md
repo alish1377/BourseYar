@@ -7,8 +7,7 @@ trading session — and runs a live regional news monitor alongside it.
 > Source code is private. This repository is a project showcase.
 
 ## Demo
-
-<video src="https://github.com/user-attachments/assets/8313f51e-aca8-46db-8abe-d0c5b721e8f3" controls></video>
+https://github.com/user-attachments/assets/8313f51e-aca8-46db-8abe-d0c5b721e8f3
 
 ---
 
